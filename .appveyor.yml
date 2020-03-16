@@ -60,3 +60,4 @@ after_test:
   - if "%BUILD_PLATFORM%" == "native" (cd %DIST_WIN% && UNINSTALL.bat %INST_DIR%)
 
 # vim:set tabstop=2 shiftwidth=2 expandtab autoindent:
+ef
